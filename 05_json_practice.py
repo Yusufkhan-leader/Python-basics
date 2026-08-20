@@ -7,4 +7,4 @@ kinolar = [
 with open("kinolar.json", "w") as fayl:
     json.dump(kinolar, fayl, indent=4)
 
-print("Ma'lumotlar JSON faylga saqlandi!")
+print("Ma'lumotlar JSON fayliga saqlandi!")
